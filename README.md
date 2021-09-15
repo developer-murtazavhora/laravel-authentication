@@ -19,9 +19,9 @@ Edit `.env` file and update configurations for application key & database
 1. composer install
 
 2. composer require laravel/ui
-3. npm install
-4. npm run dev
-5. php artisan ui bootstrap --auth
+3. php artisan ui bootstrap --auth
+4. npm install
+5. npm run dev
 
 6. php artisan migrate --seed
 7. chmod 0777 -Rf storage bootstrap/cache public/uploads ( optional for windows users )
